@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on **nothing** -->
 
-- 🌱 I’m currently learning **Statistical Foundations of Data Science**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📫 How to reach me **jason.wille.97@gmail.com**
 
